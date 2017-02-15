@@ -2,6 +2,21 @@
 
 ![Rotate Sprite Extension](https://raw.githubusercontent.com/jdnichollsc/Phaser-Rotate-Sprite-Extension/gh-pages/img/extension.png)
 
+##Full Example
+
+```javascript
+var game = new Phaser.Game(w, h, Phaser.AUTO, '', {
+    preload: function(){
+      this.game.load.image('ionPhaser', ionPhaserUrl);
+      this.game.load.image('rotate', rotateUrl);
+    },
+    create: function(){
+      this.sprite = new Phaser.Extension.RotateSprite(this.game, this.game.world.centerX, this.game.world.centerY, 'ionPhaser');
+    }
+    //...
+});
+```
+
 ## Happy scrolling
 Made with <3
 
