@@ -2,7 +2,7 @@
 
 ![Rotate Sprite Extension](https://raw.githubusercontent.com/jdnichollsc/Phaser-Rotate-Sprite-Extension/gh-pages/img/extension.png)
 
-##Full Example
+## Full Example
 
 ```javascript
 var game = new Phaser.Game(w, h, Phaser.AUTO, '', {
@@ -17,6 +17,10 @@ var game = new Phaser.Game(w, h, Phaser.AUTO, '', {
     //...
 });
 ```
+
+## Other Projects
+- **[IonPhaser](http://market.ionic.io/plugins/ionphaser)**
+- **[Kinetic Scrolling Plugin](https://github.com/jdnichollsc/Phaser-Kinetic-Scrolling-Plugin)**
 
 ## Happy scrolling
 Made with <3
