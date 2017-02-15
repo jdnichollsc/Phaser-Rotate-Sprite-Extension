@@ -2,6 +2,10 @@
 
 ![Rotate Sprite Extension](https://raw.githubusercontent.com/jdnichollsc/Phaser-Rotate-Sprite-Extension/gh-pages/img/extension.png)
 
+## Demo
+
+Do you want to see this extension in action? Visit http://codepen.io/jdnichollsc/full/PGWQVd/ yay!
+
 ## Full Example
 
 ```javascript
