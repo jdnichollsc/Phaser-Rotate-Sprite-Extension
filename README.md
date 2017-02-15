@@ -6,6 +6,7 @@
 
 ```javascript
 var game = new Phaser.Game(w, h, Phaser.AUTO, '', {
+    //...
     preload: function(){
       this.game.load.image('ionPhaser', ionPhaserUrl);
       this.game.load.image('rotate', rotateUrl);
